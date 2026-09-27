@@ -7,7 +7,7 @@
 </td>
 <td>
 
-<img src="https://github-readme-stats-blush-delta-21.vercel.app/api/top-langs/?username=Maksimuson&layout=compact&theme=dark" />
+<img src="https://github-readme-stats-blush-delta-21.vercel.app/api/top-langs/?username=Maksimuson&layout=compact&theme=dracula" />
 
 </td>
 </tr>
